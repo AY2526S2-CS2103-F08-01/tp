@@ -4,7 +4,7 @@ import static java.util.Objects.requireNonNull;
 
 /**
  * Represents a Person's phone number in the address book.
- * 
+ *
  * Guarantees: immutable
  */
 public class Remark {
